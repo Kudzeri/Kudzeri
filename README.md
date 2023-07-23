@@ -21,6 +21,7 @@ Feel free to connect with me on social media or send me an email:
 - Twitter: [@kudzeri](https://twitter.com/kudzeri)
 - Instagram: [@kudzerioff](https://instagram.com/kudzerioff)
 - VK: [@kudzerioff](https://vk.com/kudzerioff)
+- itch.io: [@kudzerioff](https://kudzerioff.itch.io/)
 - Email: mikhail.devwork@gmail.com
 
 I'm looking forward to getting to know everyone here and learning together! 🤝
