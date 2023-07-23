@@ -1,6 +1,6 @@
 Here is a draft README.md text for a student profile for Mikhail Kudze (nickname: Kudzeri):
 
-# Welcome Mikhail "Kudzeri" Kudze!
+# Welcome!
 
 ## About Me
 
@@ -22,7 +22,7 @@ Feel free to connect with me on social media or send me an email:
 
 - Twitter: [@kudzeri](https://twitter.com/kudzeri)
 - Instagram: [@kudzerioff](https://instagram.com/kudzerioff)
-- VK: [@kudzeri](https://vk.com/kudzeri)  
+- VK: [@kudzerioff](https://vk.com/kudzerioff)  
 - Email: mikhail.devwork@gmail.com
 
 I'm looking forward to getting to know everyone here and learning together!
