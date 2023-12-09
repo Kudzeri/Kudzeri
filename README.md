@@ -1,29 +1,9 @@
-# Welcome! 👋
+## <p align="center"> <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> Welcome to my Github! <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> </p>
 
-## About Me
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kudzeri&theme=omni" />
+</a>
 
-Hi there! My name is Mikhail Kudze (you can call me Kudzeri 😄) and I'm a 19 year old 🧑 student from Almaty, Kazakhstan. 
-
-I'm currently studying software engineering 💻 at IITU. I'm very passionate about technology and programming 🤓 and am excited to continue developing my skills in this field.
-
-Some of my hobbies and interests include:
-
-- Coding (PHP 🐘, C# ♯, JavaScript 🌐) 
-- Playing video games 🎮
-- Reading books 📚
-- Watching movies 🍿 (especially adventure 🏕️ and fantasy 🧙‍♂️)
-- Playing guitar 🎸 (Still learning to play: 😊)
-
-## Get in Touch 
-
-Feel free to connect with me on social media or send me an email:
-
-- Twitter: [@kudzeri](https://twitter.com/kudzeri)
-- Instagram: [@kudzerioff](https://instagram.com/kudzerioff)
-- VK: [@kudzerioff](https://vk.com/kudzerioff)
-- itch.io: [@kudzerioff](https://kudzerioff.itch.io/)
-- Email: mikhail.devwork@gmail.com
-
-I'm looking forward to getting to know everyone here and learning together! 🤝
-
-Let me know if you want me to modify anything!
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudzeri&langs_count=8&theme=omni" />
+</a>
