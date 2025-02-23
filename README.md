@@ -30,6 +30,7 @@ For UI and styling, I use **Tailwind CSS** for rapid design, alongside **CSS3** 
 ![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![React Icons](https://img.shields.io/badge/ReactIcons-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
  
